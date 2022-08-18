@@ -1,0 +1,8 @@
+body {
+    background-image: url("Background Img.jpeg");
+    text-align: center;
+}
+
+canvas {
+    border: 10px solid beige;
+}
